@@ -103,6 +103,6 @@ The program saves pose data to a JSON file specified by `--file_path`. The file 
 
 - The program creates a directory for the output file if it does not exist.
 - Adjust the `fps` argument based on your input source for accurate tracking.
-- The accuracy is the best when the camera's viewing direction is orthogonal to the scene.
+- The accuracy is the best when the camera's viewing direction is orthogonal to the scene and the whole body of the user is visible.
 
 
